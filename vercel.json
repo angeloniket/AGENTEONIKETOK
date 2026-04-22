@@ -17,9 +17,8 @@
     "TWILIO_AUTH_TOKEN": "@twilio_auth_token",
     "TWILIO_WHATSAPP_NUMBER": "@twilio_whatsapp_number",
     "CLAUDE_API_KEY": "@claude_api_key",
-    "GOOGLE_CALENDAR_API_KEY": "@google_calendar_api_key",
     "CLIENTE_NOMBRE": "@cliente_nombre",
     "CLIENTE_EMAIL": "@cliente_email",
-    "TIMEZONE": "America/Mazatlan"
+    "TIMEZONE": "@timezone"
   }
 }
